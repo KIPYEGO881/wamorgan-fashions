@@ -1,0 +1,11 @@
+#nav{
+display: flex;
+position: relative;
+overflow: hidden;
+background-color: blue;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
